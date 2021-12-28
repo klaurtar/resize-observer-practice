@@ -1,0 +1,8 @@
+.container {
+  height: 30vh;
+}
+.box {
+  background-color: red;
+  width: 30%;
+  height: 100%;
+}
